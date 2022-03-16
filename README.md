@@ -60,20 +60,20 @@ Untuk menyisipkan gmbar, siapkan gambar yang akan disisipkan pada halaman web, k
 
 **Modul Praktikum Pemrograman Web**
 
-![foto](foto/10.png)
+![foto](foto/13.png)
 
 Kemudian tambahkan tag img setelah paragraf yang kedua, dengan menambahkan heading 3 sebelumnya.
 
-![foto](foto/11.png)
+![foto](foto/14.png)
 
 Simpan perubahannya, kemudian refresh browser.
-![foto](foto/12.png)
+![foto](foto/15.png)
 
 **Modul Praktikum Pemrograman Web**
 
 Gambar akan ditampilkan apa adanya sesuai dengan ukuran aslinya. Untuk mengatur ukuran gambar, dapat digunakan atribut witdh dan height dengan nilai integer yang disesuaikan.
 
-![foto](foto/13.png)
+![foto](foto/16.png)
 
 ## **5. Menambahkan Hyperlink**
 
