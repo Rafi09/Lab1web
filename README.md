@@ -79,11 +79,11 @@ Gambar akan ditampilkan apa adanya sesuai dengan ukuran aslinya. Untuk mengatur 
 
 Tambahkan hyperlink pada dokumen sebelum heading 1 seperti berikut.
 
-![foto](foto/foto15.png)
+![foto](foto/20.png)
 
 Buat satu file lagi dengan nama lab1_halaman2.html kemudian isi dokumen tersebut dengan tag html dasar dan dengan isi bebas, boleh mengcopy dari halaman sebelumnya.
 
-![foto](foto/foto171.png)
+![foto](foto/21.png)
 
 # **Jawab Pertanyaan Berikut**
 
@@ -98,10 +98,10 @@ _parent ), apa yang terjadi pada masing-masing nilai antribut tersebut?
 
 ## Jawab
 1. Saya akan melakukan perubahan pada tag html, gambar yang ada dibawah ini yaitu merupakan syntax HTML sebelum saya merubahnya
-![foto](foto/foto18.png "before")
+![foto](foto/22.png "before")
 Lalu ketika saya hilangkan akhiran pada Tag `</h1>`menjadi `<h1>`, maka yang akan terjadi seluruh elemen dibawah tag tersebut akan berubah mengikuti Tag `<h1>` dikarenakan tidak ada akhiran/penutup Tag tersebut. 
 Seperti gambar dibawah ini.
-![foto](foto/foto19.png "after")
+![foto](foto/23.png "after")
 
 2. Tag `<p>` berfungsi untuk memberi perintah paragraf pada halaman html
 
