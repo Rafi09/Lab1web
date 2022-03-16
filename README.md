@@ -40,18 +40,18 @@ Selanjutnya silakan ubah-ubah nilai atributnya (*align => justify, left, right, 
 ## **2. Menambahkan Judul**
 Seperti sudah dijelaskan pada materi bahwa judul memiliki 6 level yaitu mulai h1 sampai h6.Kemudian tambahkan judul h1 sebelum paragraf pertama dan tambahkan sub judul h2 sebelum paragraf kedua
 
-![foto](foto/foto9.png)
+![foto](foto/7.png)
 
 Simpan perubahannya dan lihat hasilnya dengan melakukan refresh pada browser.
 
 # **Modul Praktikum Pemrograman Web**
 
-![foto](foto/foto8.png)
+![foto](foto/8.png)
 
 ## **3. Memformat teks**
 Lakukan pemformatan teks yang ada pada paragraf yang sudah ada sebelumnya, mengacu kepada penjelasan materi pemformatan teks, sehingga tampilannya seperti berikut.
 
-![foto](foto/foto121.png)
+![foto](foto/9.png)
 
 Lakukan eksperimen lainnya dengan tag-tag pemformatan teks yang ada
 
@@ -60,20 +60,20 @@ Untuk menyisipkan gmbar, siapkan gambar yang akan disisipkan pada halaman web, k
 
 **Modul Praktikum Pemrograman Web**
 
-![foto](foto/foto11.png)
+![foto](foto/10.png)
 
 Kemudian tambahkan tag img setelah paragraf yang kedua, dengan menambahkan heading 3 sebelumnya.
 
-![foto](foto/foto13.png)
+![foto](foto/11.png)
 
 Simpan perubahannya, kemudian refresh browser.
-![foto](foto/foto120.png)
+![foto](foto/12.png)
 
 **Modul Praktikum Pemrograman Web**
 
 Gambar akan ditampilkan apa adanya sesuai dengan ukuran aslinya. Untuk mengatur ukuran gambar, dapat digunakan atribut witdh dan height dengan nilai integer yang disesuaikan.
 
-![foto](foto/foto14.png)
+![foto](foto/13.png)
 
 ## **5. Menambahkan Hyperlink**
 
