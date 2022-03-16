@@ -10,3 +10,9 @@
 Persiapan membuka VSCode dan Browser
 
 ![foto](foto/1.png)
+
+Kemudian buat file baru dengan nama Lab1_tag_dasar.html dan tambahkan dasar dokumen HTML. 
+
+# Modul Praktikum Pemrograman Web
+
+![foto](foto/2.png)
